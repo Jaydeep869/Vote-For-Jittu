@@ -1,6 +1,6 @@
 # Jitesh Kumar Mishra - IIT BHU Student Parliament Campaign Website
 
-*Created by ****Jaydeep***
+Created by ***Jaydeep***
 
 This is a React-based campaign website for Jitesh Kumar Mishra, who is running for the IIT BHU student parliament. The website highlights Jitesh’s vision, achievements, and campaign priorities to engage and inform student voters.
 
