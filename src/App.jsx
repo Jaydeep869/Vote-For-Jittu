@@ -120,14 +120,22 @@ let theme = createTheme({
 theme = responsiveFontSizes(theme);
 
 const slogans = [
-  "Empowering students with a voice that matters",
-  "For the students, by the students",
-  "Building a better campus, together",
-  "Your voice deserves to be heard",
-  "Progress through representation",
-  "A new vision for student governance",
-  "United campus, stronger voice",
-  "Making IIT BHU work for all students"
+  "BALLOT NO 13",
+  "BALLOT NO 13",
+  "BALLOT NO 13",
+  "BALLOT NO 13",
+  "BALLOT NO 13",
+  "BALLOT NO 13",
+  "BALLOT NO 13",
+  "BALLOT NO 13",
+  "BALLOT NO 13",
+  "BALLOT NO 13",
+  "BALLOT NO 13",
+  "BALLOT NO 13",
+  "BALLOT NO 13",
+  "BALLOT NO 13",
+  "BALLOT NO 13"
+  
 ];
 
 const voteMessages = [
@@ -487,7 +495,7 @@ function App() {
                       width: { md: '80%' },
                       maxWidth: { md: '600px' },
                       mx: 'auto',
-                      fontSize: { xs: '1.2rem', md: '1.5rem' },
+                      fontSize: { xs: '1.8rem', md: '3rem' },
                       padding: { md: '0.5rem 1.5rem 0.5rem 0' },
                       borderRight: { md: '4px solid rgba(211, 47, 47, 0.7)' },
                       position: 'relative',
@@ -1232,4 +1240,5 @@ function App() {
 }
 
 export default App;
+
 
