@@ -1229,7 +1229,7 @@ function App() {
                 &copy; {new Date().getFullYear()} Jitesh Kumar Mishra Campaign. All rights reserved.
               </Typography>
               <Typography variant="body2" sx={{ mt: 1, opacity: 0.9, fontSize: '0.85rem', display: 'flex', alignItems: 'center', justifyContent: { xs: 'center', md: 'flex-end' } }}>
-                Created with <Box component="span" sx={{ color: '#ff6659', mx: 0.5, fontSize: '1.1rem' }} className="heart-pulse">❤</Box> by JD
+                Created with <Box component="span" sx={{ color: '#ff6659', mx: 0.5, fontSize: '1.1rem' }} className="heart-pulse">❤</Box> by JAYDEEP
               </Typography>
             </Grid>
           </Grid>
