@@ -1,4 +1,4 @@
-# Jitesh Kumar Mishra - IIT BHU Student Parliament Campaign Website
+#  IIT BHU Student Parliament Campaign Website
 
 Created by ***Jaydeep***
 
